@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "D3FProject", "D3FProject\D3FProject.vbproj", "{5D85E757-9519-4862-AAB7-E46E14E848DD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "obzen.HLEditor.10", "..\obzen.HLEditor.10\obzen.HLEditor.10.vbproj", "{2F1865AF-A151-4BC7-91FE-B1B403306732}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "obzen.D3Fpython.10", "obzen.D3Fpython.10\obzen.D3Fpython.10.vbproj", "{E4F549F8-D61F-4CC0-B360-01AB98590812}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WrapDragTest", "WrapDragTest\WrapDragTest.vbproj", "{68CF6E0A-6A1C-44B5-9B20-CD8D660CD3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D85E757-9519-4862-AAB7-E46E14E848DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D85E757-9519-4862-AAB7-E46E14E848DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D85E757-9519-4862-AAB7-E46E14E848DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D85E757-9519-4862-AAB7-E46E14E848DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1865AF-A151-4BC7-91FE-B1B403306732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1865AF-A151-4BC7-91FE-B1B403306732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1865AF-A151-4BC7-91FE-B1B403306732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1865AF-A151-4BC7-91FE-B1B403306732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F549F8-D61F-4CC0-B360-01AB98590812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F549F8-D61F-4CC0-B360-01AB98590812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F549F8-D61F-4CC0-B360-01AB98590812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F549F8-D61F-4CC0-B360-01AB98590812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CF6E0A-6A1C-44B5-9B20-CD8D660CD3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CF6E0A-6A1C-44B5-9B20-CD8D660CD3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CF6E0A-6A1C-44B5-9B20-CD8D660CD3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CF6E0A-6A1C-44B5-9B20-CD8D660CD3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75ADD49-3C55-41FE-A5B9-58F935F4C5A1}
+	EndGlobalSection
+EndGlobal

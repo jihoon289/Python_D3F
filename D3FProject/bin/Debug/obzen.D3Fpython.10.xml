@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+obzen.D3Fpython.10
+</name>
+</assembly>
+<members>
+<member name="T:obzen.D3Fpython._10.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:obzen.D3Fpython._10.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:obzen.D3Fpython._10.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:obzen.D3Fpython._10.SegObject">
+<summary>
+SegObject
+</summary>
+</member>
+<member name="M:obzen.D3Fpython._10.SegObject.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:obzen.D3Fpython._10.FromDataSet_Simple">
+<summary>
+FromDataSet_Simple
+</summary>
+</member>
+<member name="M:obzen.D3Fpython._10.FromDataSet_Simple.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:obzen.D3Fpython._10.objectPRD">
+<summary>
+objectPRD
+</summary>
+</member>
+<member name="M:obzen.D3Fpython._10.objectPRD.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:obzen.D3Fpython._10.pythonControl">
+<summary>
+pythonControl
+</summary>
+</member>
+<member name="M:obzen.D3Fpython._10.pythonControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

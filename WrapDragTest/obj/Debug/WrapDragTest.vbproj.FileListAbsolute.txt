@@ -1,0 +1,17 @@
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\bin\Debug\WrapDragTest.exe.config
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\bin\Debug\WrapDragTest.exe
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\bin\Debug\WrapDragTest.pdb
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\bin\Debug\WrapDragTest.xml
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\MainWindow.g.vb
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\Application.g.vb
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest_MarkupCompile.cache
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest_MarkupCompile.lref
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\MainWindow.baml
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.g.resources
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.Resources.resources
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.vbproj.GenerateResource.cache
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.vbproj.CoreCompileInputs.cache
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.exe
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.xml
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.pdb
+C:\Users\han\Documents\Visual Studio 2015\Projects\v7.0_license 20161109_V0.2\v7.0_license 20150730\03. x64\D3FProject\WrapDragTest\obj\Debug\WrapDragTest.vbprojAssemblyReference.cache

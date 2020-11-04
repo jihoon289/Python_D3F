@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="objectPRD"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:obzen.D3Fpython._10"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="200">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type StackPanel}">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Opacity" Value="0.7" />
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="False">
+                    <Setter Property="Opacity" Value="1" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <Grid x:Name="Grd" Background="#CFE7CC" Height="30" Margin="5" Cursor="Hand">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15" x:Name="FirstCol"/>
+            <ColumnDefinition Width="22"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="ExRe" Grid.Column="0" Source="/obzen.D3Fpython.10;component/Image/16_Reduce.png" Height="13" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3,0,0,0" />
+        <Image x:Name="ObjImg" Grid.Column="1" Opacity="0.6" Source="/obzen.D3Fpython.10;component/Image/DataSet.png" HorizontalAlignment="Left" Height="22" VerticalAlignment="Center" Margin="2,0,0,0" />
+        <Label Grid.Column="2"  Foreground="#383838" VerticalAlignment="Center" FontSize="12" Margin="0,0,10,0" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" >
+            <TextBlock x:Name="ObjLB" Text="dfa_asdf" />
+        </Label>
+    </Grid>
+</UserControl>
